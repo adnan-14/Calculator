@@ -1,2 +1,2 @@
 # Calculator
-#hacktoberfest2020
+This helps in solving basic operations.
